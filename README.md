@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicktechh
-- 👀 I’m a programmer
+- 👀 I’m a developer
 - 🌱 I’m currently learning ...
-- 📫 Let's Gooo
+- 🇮🇹 Italian
 
 <!---
 nicktechh/nicktechh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
